@@ -44,4 +44,4 @@ What do you mean by:
 7. SCRUM
 8. Cloud
 
-Yes, the name of the files were a reference to <iframe src="https://open.spotify.com/embed/track/5UbLKRX1qVROlwDFOooEvG" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+Yes, the name of the files were a reference to https://open.spotify.com/track/5UbLKRX1qVROlwDFOooEvG
