@@ -1,0 +1,9 @@
+Question - 4
+List
+
+Answer:
+  Firstly, both “take” and “net” will be added to the list. At this moment, the list has 2 elements.
+  So the first iteration starts.
+  It will get the element at position 0 - “take” - and add it to the list uppercased. Notice that this doesn't substitute any items on the list.
+  Now we have a list with 3 elements.
+  At every iteration, the list will get longer, so the ending statement will never work. After the first two items, it will continuously add “TAKE” and “NET” until there is no memory left. So both “Keeps the first two items in lowercase and adds new items in uppercase.” and “Out of memory exception.” are correct.

@@ -1,0 +1,37 @@
+Question - 5
+Subjectives
+
+1. Design Patterns
+  It is common for a developer to face similar situations while developing different softwares applications. The design solution for some of these problems have been already identified and tested. We call them design patterns. They are reusable templates that can be transformed into code and, therefore, can speed up the development.
+
+2.KISS
+  KISS stands for:
+    K = Keep
+    I = It
+    S = Simple
+    S = Stupid //excuse me
+  It is a principle that states that we should avoid making things so complicated. It isn't applicable only in programming but it is very important for us. A simple system is easies to debug and maintain.
+
+3.NoSQL
+  NoSQL is a type of database that is non-relational (meaning the data is not organized into tables). In comparison to a normal SQL, a NoSQL database allows an easier scalability because it is easily horizontally scalable. Instead of adding more resources to a machine to make it more robust, you add a new computer to the distributed software application.
+
+4.TDD
+  TDD stands for test-driven development. It is a technique where tests are created before the software itself. Firstly, you run the created test. It will fail, because you don't have the desired function implemented. Given the result, you can now implement the easiest solution to that problem and program your way around that.
+
+5. SOLID
+  SOLID stands for:
+    S = Single Responsibility Principle: A class should have only a single job.
+    O = Opened Closed Principle: A class should be opened for extension but closed for modification.
+    L = Liscov Substitution Principle: Objects should be able to be substituted for objects of derivated classes in functions that use references to base classes.
+    I = Interface Segregation Principle: No one should be forced to use interfaces they don't consider necessary.
+    D = Dependency Inversion Principle: Entities must depend on abstractions, so high level module must not depend on the low level module.
+  These are the five base principles of Object Oriented Design. When a programmer follow these principles, the system will very likely be easier maintain and extend.
+
+6. REST
+  REST stands for Representational State Transfer. It is an architecture for implementing web services. It states that every resource is uniquely adressable using a minimal set of commands (likely HTTP). The architecture should support a lot of components and interactions between them, it should have a simple interface, these components should be modifiable and their interactions should be visible.
+
+7. Scrum
+  Scrum is a framework for collaborative software development.  It allows constant and fast adaptations to a project encouraging teamwork and being prepared to changes.
+
+8. Cloud
+  What we usually refer as cloud is a type of data storage where the physical elements are distributed along multiple servers in different locations and all the data is accessible via a web based API.
